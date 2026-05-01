@@ -14,7 +14,7 @@ st.set_page_config(
 		layout = 'wide',
 	)
 
-st.title('Iris Data Analysis done by Alvin Rindra Fazrie')
+st.title('Iris Data Analysis done by Lina Khairani')
 
 with st.sidebar:
 	st.header('Ini adalah Sidebar, silahkan pilih opsi dibawah:')
